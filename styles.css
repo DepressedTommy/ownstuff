@@ -49,4 +49,5 @@ nav {
 .img {
     height: 2%;
     width: 4.7%;
+    float: left;
 }
