@@ -28,6 +28,7 @@ body{
     color: white;
     text-decoration: none;
     text-align: center;
+    padding: 1rem;
 }
 nav {
     flex: 1;
