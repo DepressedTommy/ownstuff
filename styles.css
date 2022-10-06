@@ -50,4 +50,5 @@ nav {
     height: 2%;
     width: 4.7%;
     float: left;
+    display: inline-block;
 }
