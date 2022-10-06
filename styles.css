@@ -49,6 +49,8 @@ nav {
     height: 60%;
     width: 23%;
     float: left;
+    margin-left: -20%;
+    margin-top: 10%;
 }
 .ul li {
     padding: 1rem;
