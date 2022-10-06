@@ -7,4 +7,8 @@
     border: none;
     left: 0;
     top: 0;
+    height: 5vw;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
