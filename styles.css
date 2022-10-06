@@ -19,3 +19,8 @@
     box-sizing: none;
     color: white;
 }
+nav {
+    flex: 1;
+    display: inline-block;
+    margin-right: 30px;
+}
