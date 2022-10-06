@@ -1,0 +1,7 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #ffae00, rgb(255, 0, 34));
+    color: white
+}
