@@ -25,6 +25,9 @@ body{
     cursor: pointer;
     border: none;
     font-size: 4vw;
+    margin: 5vw;
+    text-decoration: none;
+    text-align: center;
 }
 nav {
     flex: 1;
