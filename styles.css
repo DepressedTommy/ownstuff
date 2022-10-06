@@ -28,6 +28,7 @@ body{
     text-decoration: none;
     text-align: center;
     justify-content: space-between;
+    margin-top: 2%;
 }
 nav {
     flex: 1;
