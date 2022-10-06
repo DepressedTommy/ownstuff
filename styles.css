@@ -21,7 +21,7 @@ body{
 .ul {
     list-style-type: none;
     margin: 0;
-    padding: 1rem;
+    padding: 0;
     display: flex;
     box-sizing: none;
     color: white;
@@ -32,7 +32,7 @@ body{
 }
 nav {
     flex: 1;
-    display: inline-block;
+    display: flex
     margin-left: 18%;
 }
 .button {
@@ -45,7 +45,10 @@ nav {
     font-weight: bold;
     }
 .img {
-    height: 46%;
+    height: 60%;
     width: 23%;
     float: left;
+}
+.ul li {
+    padding: 1rem;
 }
