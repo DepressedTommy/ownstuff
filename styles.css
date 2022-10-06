@@ -3,11 +3,10 @@
     display: flex;
     text-align: center;
     background-image: linear-gradient(to bottom right, #ffae00, rgb(255, 0, 34));
-    color: white;
     border: none;
     left: 0;
     top: 0;
-    height: 5vw;
+    height: 10vw;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -17,5 +16,6 @@
     margin: 0;
     padding: 0;
     display: flex;
-    box: none;
+    box-sizing: none;
+    color: white;
 }
