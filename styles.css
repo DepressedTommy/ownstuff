@@ -17,7 +17,6 @@ body{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    justify-content: space-between;
 }
 .ul {
     list-style-type: none;
@@ -29,6 +28,7 @@ body{
     text-decoration: none;
     text-align: center;
     justify-content: space-between;
+    padding: 0.8rem;
 }
 nav {
     flex: 1;
@@ -44,8 +44,7 @@ nav {
     font-size: 2vw;
     font-weight: bold;
     padding: 0.5vw;
-    
-}
+    }
 .img {
     height: 10%;
     width: 23%;
