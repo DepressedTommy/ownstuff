@@ -28,12 +28,13 @@ body{
     text-decoration: none;
     text-align: center;
     justify-content: space-between;
-    padding: 0.5rem;
+    padding: 0.5vw;
 }
 nav {
     flex: 1;
     display: inline-block;
     margin-left: 18%;
+    padding: 0.5vw;
 }
 .button {
     color: white;
@@ -46,7 +47,7 @@ nav {
     padding: 0.5vw;
     }
 .img {
-    height: 23%;
+    height: 28%;
     width: 23%;
     float: left;
 }
