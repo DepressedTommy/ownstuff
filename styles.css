@@ -75,4 +75,6 @@ nav {
     background: #ffd460;
     color: aliceblue;
     font-size: 3vw;
+    transition: all 500ms;
+    font-weight: bold;
 }
