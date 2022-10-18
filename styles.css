@@ -52,16 +52,6 @@ nav {
     display: flex;
     margin-left: 18%;
 }
-.button {
-    color: white;
-    border: none;
-    text-decoration: none;
-    background: none;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 2vw;
-    font-weight: bold;
-    cursor: pointer;
-    }
 .img {
     height: 5%;
     width: 7%;
@@ -70,60 +60,17 @@ nav {
     padding: 2vw;
 }
 .myBtn {
-    text-decoration: none;
-    text-decoration-color: none;
-    color: #ffd460;
-    background: none;
+    color: white;
     border: none;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 32px;
-    transition: all 500ms;
+    text-decoration: none;
+    background: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
     font-weight: bold;
+    cursor: pointer;
+    position: fixed;
 }
 .myBtn:hover{
     background: #ffd460;
     color: aliceblue;
-    cursor: pointer;
-    font-size: 40px;
-}
-.myBtn2 {
-    text-decoration: none;
-    text-decoration-color: none;
-    color: #ffd460;
-    background: none;
-    border: none;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 32px;
-    transition: all 500ms;
-    font-weight: bold;
-}
-.myBtn2:hover{
-    background: #ffd460;
-    color: aliceblue;
-    cursor: pointer;
-    font-size: 40px;
-}
-.myBtn3 {
-    text-decoration: none;
-    text-decoration-color: none;
-    color: #ffd460;
-    background: none;
-    border: none;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 32px;
-    transition: all 500ms;
-    font-weight: bold;
-}
-.myBtn3:hover{
-    background: #ffd460;
-    color: aliceblue;
-    cursor: pointer;
-    font-size: 40px;
-}
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 48
 }
