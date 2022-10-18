@@ -9,7 +9,7 @@ body{
     width: 100%;
     display: flex;
     text-align: center;
-    background-image: linear-gradient(to bottom right, #ffae00, rgb(255, 0, 34));
+    background-image: linear-gradient(to bottom right, #2f00ff, rgb(59, 137, 255));
     border: none;
     left: 0;
     top: 0;
@@ -20,7 +20,7 @@ body{
 }
 .ul {
     list-style-type: none;
-    margin-left: 10%;
+    margin-left: 8%;
     padding: 0;
     display: flex;
     box-sizing: none;
@@ -47,7 +47,7 @@ nav {
     }
 .img {
     height: 60%;
-    width: 23%;
+    width: 70%;
     float: left;
     margin-left: -23%;
     margin-top: 2%;
