@@ -69,3 +69,61 @@ nav {
 .ul li {
     padding: 2vw;
 }
+.myBtn {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: #ffd460;
+    background: none;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    transition: all 500ms;
+    font-weight: bold;
+}
+.myBtn:hover{
+    background: #ffd460;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: 40px;
+}
+.myBtn2 {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: #ffd460;
+    background: none;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    transition: all 500ms;
+    font-weight: bold;
+}
+.myBtn2:hover{
+    background: #ffd460;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: 40px;
+}
+.myBtn3 {
+    text-decoration: none;
+    text-decoration-color: none;
+    color: #ffd460;
+    background: none;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 32px;
+    transition: all 500ms;
+    font-weight: bold;
+}
+.myBtn3:hover{
+    background: #ffd460;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: 40px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
