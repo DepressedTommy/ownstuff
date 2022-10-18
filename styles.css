@@ -69,6 +69,7 @@ nav {
     font-weight: bold;
     cursor: pointer;
     display: flex;
+    position: absolute;
 }
 .myBtn:hover{
     background: #ffd460;
