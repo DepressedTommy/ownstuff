@@ -73,4 +73,5 @@ nav {
 .myBtn:hover{
     background: #ffd460;
     color: aliceblue;
+    font-size: 3vw;
 }
