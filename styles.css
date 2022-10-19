@@ -42,6 +42,7 @@ body{
     display: flex;
     margin-left: 18%;
     position: fixed;
+    margin-top: 3.5%;
 }
 .img {
     height: 95%;
