@@ -103,3 +103,11 @@ nav {
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
     height: 15vw;
 }
+h2 {
+    color: #ffd460;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    border: none;
+    padding: 0;
+}
