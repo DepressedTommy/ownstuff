@@ -83,6 +83,8 @@ nav {
 }
 .brit {
     padding: 0;
+    height: 18%;
+    width: 70%;
     transition: all 500ms ease;
 }
 .brit:hover{
