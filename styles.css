@@ -54,3 +54,10 @@ nav {
 .ul li {
     padding: 2vw;
 }
+.stLine {
+    height: 15%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image:  linear-gradient(to bottom right, #2f00ff, rgb(59, 137, 255));;
+}
