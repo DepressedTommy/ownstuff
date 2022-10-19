@@ -101,7 +101,7 @@ nav {
     width: 100%;
     display: flex;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
-    height: 15vw;
+    height: 30vw;
 }
 h2 {
     color: #ffd460;
@@ -113,10 +113,11 @@ h2 {
 }
 .text1 {
     display: flex;
-    margin-left: 35%;
+    margin-left: 89%;
     width: 32%;
     font-size: 1vw;
     color: aliceblue;
     text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
