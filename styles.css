@@ -111,3 +111,10 @@ h2 {
     border: none;
     padding: 0;
 }
+.text1 {
+    display: flex;
+    margin-left: 35%;
+    width: 10%;
+    font-size: 0.8vw;
+    color: aliceblue;
+}
