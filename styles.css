@@ -74,7 +74,6 @@ body{
     font-weight: bold;
 }
 .brit {
-    padding: 0;
     height: 0.1%;
     width: 5%;
     transition: all 500ms ease;
