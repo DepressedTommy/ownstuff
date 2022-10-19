@@ -81,3 +81,10 @@ nav {
     transition: all 500ms ease;
     font-weight: bold;
 }
+.brit {
+    padding: 0;
+}
+.brit:hover{
+    width: 66%;
+    height: 20%;
+}
