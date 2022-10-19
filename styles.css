@@ -37,7 +37,7 @@ body{
 }
 .ul {
     list-style-type: none;
-    margin-left: 8%;
+    margin-left: 4%;
     padding: 0;
     display: flex;
     box-sizing: none;
