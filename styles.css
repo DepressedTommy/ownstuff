@@ -110,6 +110,7 @@ h2 {
     font-size: 1.6em;
     border: none;
     padding: 0;
+    display: flex;
 }
 .text1 {
     display: flex;
