@@ -63,7 +63,7 @@ nav {
     padding-bottom: 0%;
 }
 .myBtn {
-    color: white;
+    color: #ffd460;
     border: none;
     text-decoration: none;
     background: none;
@@ -114,7 +114,9 @@ h2 {
 .text1 {
     display: flex;
     margin-left: 35%;
-    width: 10%;
-    font-size: 0.8vw;
+    width: 32%;
+    font-size: 1vw;
     color: aliceblue;
+    text-align: left;
+
 }
