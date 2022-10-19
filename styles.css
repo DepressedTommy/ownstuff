@@ -38,7 +38,6 @@ body{
 }
 .ul {
     list-style-type: none;
-@ -51,46 +52,45 @@
     flex: 1;
     display: flex;
     margin-left: 18%;
