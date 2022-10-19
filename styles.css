@@ -97,10 +97,10 @@ nav {
 /* =================================================================================== */
 
 .line{
-    padding: 0;
     margin: 0;
     width: 100%;
     display: flex;
     background-image: linear-gradient(to bottom right, #3669c0, #151c64);
-    height: 25%;
+    height: 500px;
+    margin-top: 10%;
 }
