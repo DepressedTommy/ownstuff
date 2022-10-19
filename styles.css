@@ -1,9 +1,26 @@
 *{
     box-sizing: border-box;
 }
+html {
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #ffd460; 
+}
+::-webkit-scrollbar-thumb {
+    background: #151c64;
+    background-image: linear-gradient(to bottom right, #3669c0, #151c64); 
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #3669c0; 
+}
 body{
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
 }
 .navbar {
     width: 100%;
@@ -17,10 +34,11 @@ body{
     list-style-type: none;
     margin: 0;
     padding: 0;
+    position: fixed;
 }
 .ul {
     list-style-type: none;
-    margin-left: 8%;
+    margin-left: 4%;
     padding: 0;
     display: flex;
     box-sizing: none;
@@ -28,14 +46,23 @@ body{
     text-decoration: none;
     text-align: center;
     justify-content: space-between;
-    margin-top: 2%;
+    margin-top: 5%;
 }
 nav {
     flex: 1;
     display: flex;
     margin-left: 18%;
 }
-.button {
+.img {
+    height: 95%;
+    width: 94%;
+}
+.ul li {
+    padding: 8vw;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+.myBtn {
     color: white;
     border: none;
     text-decoration: none;
@@ -44,20 +71,28 @@ nav {
     font-size: 2vw;
     font-weight: bold;
     cursor: pointer;
-    }
-.img {
-    height: 60%;
-    width: 70%;
-    float: left;
-    margin-left: -16%;
+    display: flex;
+    position: absolute;
+    transition: all 500ms ease;
 }
 .ul li {
     padding: 2vw;
 }
-.stLine {
-    height: 15%;
-    width: 100%;
-    margin: 0;
+.myBtn:hover{
+    background: #ffd460;
+    color: aliceblue;
+    font-size: 2.5vw;
+    transition: all 500ms ease;
+    font-weight: bold;
+}
+.brit {
     padding: 0;
-    background-image:  linear-gradient(to bottom right, #2f00ff, rgb(59, 137, 255));;
+    height: 38%;
+    width: 100%;
+    transition: all 500ms ease;
+}
+.brit:hover{
+    height: 42%;
+    width: 104%;
+    transition: all 500ms ease;
 }
