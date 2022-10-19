@@ -74,8 +74,8 @@ body{
 }
 .brit {
     padding: 0;
-    height: 12%;
-    width: 20%;
+    height: 2%;
+    width: 10%;
     transition: all 500ms ease;
 }
 .brit:hover{
