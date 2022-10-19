@@ -34,19 +34,27 @@ body{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    position: fixed;
 }
 .ul {
     list-style-type: none;
+    margin-left: 4%;
+    padding: 0;
+    display: flex;
+    box-sizing: none;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+nav {
     flex: 1;
     display: flex;
     margin-left: 18%;
-    margin-top: 4%;
-    position: fixed;
 }
 .img {
-    height: 75%;
-    width: 74%;
+    height: 95%;
+    width: 94%;
 }
 .ul li {
     padding: 8vw;
@@ -74,13 +82,13 @@ body{
     font-weight: bold;
 }
 .brit {
-    height: 0.07%;
-    width: 4%;
+    padding: 0;
+    height: 38%;
+    width: 100%;
     transition: all 500ms ease;
-    padding-right: 0;
 }
 .brit:hover{
-    height: 4.07%;
-    width: 8%;
+    height: 42%;
+    width: 104%;
     transition: all 500ms ease;
 }
